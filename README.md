@@ -2,7 +2,9 @@
 Data Mining of SH Housing with Python 
 
 Related Modules
+* requests
 * BeautifulSoup
-* Pandas
+* pandas
 * numpy
 * matplotlib
+* csv
