@@ -1,2 +1,2 @@
 # Housing_SH
-Data Mining of SH Housing/住房供给 with Python Related Modules
+Data Mining of SH Housing with Python Related Modules
